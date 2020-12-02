@@ -19,4 +19,7 @@ For each point of view there are about 60 flights from point A to B and another 
 The logs file contains the(X,Y,Z)coordinates (which placed in columns POSX, POSY, and POSZ),
 the angles of thedrone itself throughout the flight (which placed in columns QW, QX,QY, and QZ) 
 and the TimeStamp of each measurement.
-We have processed these files as we explained in section 2.3 on the thsis.
+We have processed these files as we explained in section 2.3 on the thesis.
+
+
+Further details on collecting and processing the dataset can be found in the thesis.
